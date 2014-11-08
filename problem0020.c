@@ -13,6 +13,7 @@
 
 
 #include <stdio.h>
+// #include <gmp.h>
 int main(void){
 	int multi = 1;
 	int int_input;
